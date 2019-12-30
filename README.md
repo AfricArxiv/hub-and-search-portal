@@ -39,4 +39,4 @@ Make sure that the provider has a server based in Africa. Database must be easy 
 
 ---
 
-We can get the metadata for submissions to Africarxiv from the API at https://api.osf.io/v2/providers/preprints/africarxiv/preprints/ and there is more documentation about working with the API at developer.osf.io
+Contact us at info@africarxiv.org
