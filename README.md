@@ -1,4 +1,42 @@
 # repo-dev
-further develop the AfricArXiv repository with APIs and other features
+develop the AfricArXiv repository from scratch
 
-You can get the metadata for submissions to Africarxiv from the API any time, here https://api.osf.io/v2/providers/preprints/africarxiv/preprints/ and there is more documentation about working with the API at developer.osf.io
+
+# Required features
+
+- docuent upload
+- licensing
+- versioning
+- add authors, affiliations, tags, keywords, title
+- ORCID
+- Crossreff DOI
+- translations into more than 2 languages (min 3 of which 1 is African – max 5)
+- …
+
+
+## Server space
+Identify hosting institutions i each African region that can host AfricArXiv physically for a few years.
+
+
+## Cloud services
+Make sure that the provider has a server based in Africa. Database must be easy to migrate if needed.
+- Microsoft Azure’s services
+- Amazon Web Services (AWS)
+- Google Cloud
+
+
+## Costs
+### Expenses
+- cloud server space: roughly US $3,000/year + ~$1,100 in yearly DOI registration fees. 
+- Running server costs?
+- HR - tech dev % Kaintenance
+
+### Income
+- crowdfunding per year / biannually
+- funders
+- African ministries
+
+
+---
+
+We can get the metadata for submissions to Africarxiv from the API at https://api.osf.io/v2/providers/preprints/africarxiv/preprints/ and there is more documentation about working with the API at developer.osf.io
