@@ -8,13 +8,19 @@ The platform and repo database should be self hosted in various partner institut
 - login (via email / affiliation / ORCID / Github / …)
 - document upload
 - document versioning with time stamp and archiving of all versions under one doi
-- licensing (CC-BY 4.0 and others to choose from)
+- licensing (CC-BY 4.0 and others to choose from incl. all commonly used academic licenses, i.e. MIT, GNU, CC-BY-…, …)
+
 - entry mask to add authors, affiliations, tags, keywords, title, abstract, lay summary
+- interoperability with other existing repositories
+- Discipline (categories) and keywords search
+
+
 
 ## Languages
 - translations into more than 2 languages (min 3 of which 1 is African)
 - machine translations with options/overlay interface to manually improve the text online
-- 
+- Language switch / editable by the users and admin
+
 
 ### integrations
 - ORCID
@@ -22,6 +28,9 @@ The platform and repo database should be self hosted in various partner institut
 - Altmetrics
 - GoogleDrive
 - Dropbox
+- DSpace
+- OSF
+- Open Knowledge Maps (BASE search)
 
 
 ## Server space
@@ -46,6 +55,8 @@ Current cloud options:
 
 ## partner institutions on the continent
 - tba (TENET, WACREN, national RENs, etc.)
+
+
 
 ---
 
