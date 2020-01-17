@@ -1,5 +1,5 @@
-# repo-dev
-develop the AfricArXiv repository from scratch
+# platform-dev
+developing the AfricArXiv repository platform from scratch
 
 The platform and repo database should be self hosted in various partner institutions with regular (weekly) mirror backup on a decentralized structure (blockchain?)
 
