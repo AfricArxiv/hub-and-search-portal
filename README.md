@@ -1,5 +1,5 @@
 # platform-dev
-developing the AfricArXiv repository platform from scratch
+**developing an AfricArXiv preprint repository platform from scratch**
 
 The platform and repo database should be self hosted in various partner institutions with regular (weekly) mirror backup on a decentralized structure (blockchain?)
 
@@ -55,6 +55,7 @@ Current cloud options:
 
 ## partner institutions on the continent
 - tba (TENET, WACREN, national RENs, etc.)
+- https://www.share-research.org/
 
 
 
