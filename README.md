@@ -23,7 +23,7 @@ The platform and repo database should be self hosted in various partner institut
 
 
 ### integrations
-- ORCID
+- ORCID // https://members.orcid.org/cc-publishers
 - CrossREF
 - Altmetrics
 - GoogleDrive
@@ -49,7 +49,7 @@ Current cloud options:
 ## Costs
 ### Expenses
 - cloud server space
-- thhird party integration service fees
+- third party integration service fees
 - running server costs: costs for data upload and maintenance by third parties
 - internal HR overhead - tech dev & maintenance
 
