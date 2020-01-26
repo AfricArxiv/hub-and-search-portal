@@ -44,6 +44,21 @@ Current cloud options:
 - Amazon Web Services (AWS) // announced to open servers in Africa
 - Google Cloud // announced to open servers in Africa
 
+## Blockchain for Science
+Adding blockchain components to ensure an affordable, efficient, decentralized infrastructure
+- https://www.blockchainforscience.com/
+- https://deip.world/
+
+### data management
+- https://oceanprotocol.com/f
+
+### collaborative drug development
+- https://molecule.to/
+
+### Publishing & Peer Review
+- https://decentralized.science/
+- https://github.com/bloxberg-org/peer-review-app
+
 
 ## Costs
 Lit of expenses items to build and maintain 
