@@ -15,11 +15,10 @@ The platform and repo database should be self hosted in various partner institut
 - Discipline (categories) and keywords search
 
 
-
 ## Languages
-- translations into more than 2 languages (min 3 of which 1 is African)
-- machine translations with options/overlay interface to manually improve the text online
-- Language switch / editable by the users and admin
+- machine translations languages c0mmonly spken on the continet 
+- machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
+- Language switch // editable by the users and admin
 
 
 ### integrations
@@ -47,6 +46,8 @@ Current cloud options:
 
 
 ## Costs
+Lit of expenses items to build and maintain 
+
 ### Expenses
 - cloud server space
 - third party integration service fees
