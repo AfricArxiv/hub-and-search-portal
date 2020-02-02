@@ -1,7 +1,6 @@
-# platform-dev
-**developing an AfricArXiv preprint repository platform from scratch**
+# Developing an AfricArXiv preprint repository platform
 
-## Mid- and longtime vision
+## Vision
 African research output should be owned and hosted on African territory. We therefore propose an African repository for preprint uploads as well as the aggregation of African research output including: 
 - scholarly books 
 - journal articles 
