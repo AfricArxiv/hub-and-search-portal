@@ -1,4 +1,7 @@
-# Developing an AfricArXiv preprint repository platform
+# Developing an African repository for scholarly communication
+- open source
+- open access
+- free for users // primarily African scientists
 
 ## Vision
 African research output should be owned and hosted on African territory. We therefore propose an African repository for preprint uploads as well as the aggregation of African research output including: 
