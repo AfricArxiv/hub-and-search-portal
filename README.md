@@ -1,10 +1,22 @@
 # platform-dev
 **developing an AfricArXiv preprint repository platform from scratch**
 
-The platform and repo database should be self hosted in various partner institutions with regular (weekly) mirror backup on a decentralized structure (blockchain?)
+## Mid- and longtime vision
+African research output should be owned and hosted on African territory. We therefore propose an African repository for preprint uploads as well as the aggregation of African research output including: 
+- scholarly books 
+- journal articles 
+- List of digital African scholarly journals 
+- …
+
+The repository database will be hosted by African research institutions in each of the 5 regions on the continent. To achieve this we will build a decentralized infrastructure with the following features:
+- Core database hosted on a server at an African institution
+- Mirror backup of the database to servers in all African regions (EastA, WestA, NorthA, CentralA)
+- Ensuring African ownership of African research output
+- incl. blockchain components
+- …
 
 
-# Required features for the respository
+## Required features for the respository
 - login (via email / affiliation / ORCID / Github / …)
 - document upload
 - document versioning with time stamp and archiving of all versions under one doi
@@ -21,7 +33,7 @@ The platform and repo database should be self hosted in various partner institut
 - Language switch // editable by the users and admin
 
 
-### integrations
+## integrations
 - ORCID // https://members.orcid.org/cc-publishers
 - CrossREF
 - Altmetrics
