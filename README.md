@@ -1,7 +1,10 @@
 # Developing an African repository for scholarly communication
+- owned by the African Science community
+- hosted on African territory
 - open source
 - open access
-- free for users // primarily African scientists
+- free for users
+
 
 ## Vision
 African research output should be owned and hosted on African territory. We therefore propose an African repository for preprint uploads as well as the aggregation of African research output including: 
@@ -12,9 +15,9 @@ African research output should be owned and hosted on African territory. We ther
 
 The repository database will be hosted by African research institutions in each of the 5 regions on the continent. To achieve this we will build a decentralized infrastructure with the following features:
 - Core database hosted on a server at an African institution
-- Mirror backup of the database to servers in all African regions (EastA, WestA, NorthA, CentralA)
+- Mirror backup of the database to servers in all African regions (EastA, WestA, NorthA, CentralA) and a Cloud 
 - Ensuring African ownership of African research output
-- incl. blockchain components
+- possibly incl. blockchain components
 - …
 
 
@@ -47,6 +50,12 @@ The repository database will be hosted by African research institutions in each 
 - Open Knowledge Maps (BASE search)
 
 
+## SOFTWARE OPTIONS
+- PKP Open Preprint Systems (OPS)
+- ? https://www.u-repo.io/
+- ? 
+
+
 ## Server space
 Identify at least one (1) host institutions in each African region that can host the AfricArXiv database.
 What capacity is needed in the beginning and projected over the next 3-5 years?
@@ -63,6 +72,7 @@ Current cloud options:
 Adding blockchain components e.g. for publishing steps to ensure an affordable, efficient, decentralized infrastructure
 - https://www.blockchainforscience.com/
 - https://deip.world/
+- https://www.knowbella.tech/
 
 
 ### data management
