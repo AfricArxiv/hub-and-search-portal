@@ -21,6 +21,17 @@ The repository database will be hosted by African research institutions in each 
 - …
 
 
+## two (2) components
+- ensuring maximum discoverability and interoperability
+
+preprint repository | aggregator 
+--- | --- 
+upload of preprint manuscripts, student reports, research proposals, registered reports/preregistrations, short communications, etc. | aggregating scholarly output from and about Africa via one interface inlc preprints form toher platforms, scholarly books, datasets for streamlined discoverability
+based on PKP OPS (?) | via API of partner platforms
+DOI and CC-BY 4.0 attribution | …
+integration with Crossref, ORCID, … | …
+
+
 ## Required features 
 - login (via email / affiliation / ORCID / Github / …)
 - document upload
@@ -71,6 +82,8 @@ Current cloud options:
 - https://datadryad.org/stash/our_platform
 - https://oceanprotocol.com/f
 - CODATA
+
+
 
 ## ? Blockchain for Science
 Adding blockchain components e.g. for publishing steps to ensure an affordable, efficient, decentralized infrastructure
