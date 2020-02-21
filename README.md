@@ -67,16 +67,16 @@ Current cloud options:
 - Amazon Web Services (AWS) // announced to open servers in Africa
 - Google Cloud // announced to open servers in Africa
 
+## data management
+- https://datadryad.org/stash/our_platform
+- https://oceanprotocol.com/f
+- CODATA
 
 ## ? Blockchain for Science
 Adding blockchain components e.g. for publishing steps to ensure an affordable, efficient, decentralized infrastructure
 - https://www.blockchainforscience.com/
 - https://deip.world/
 - https://www.knowbella.tech/
-
-
-### data management
-- https://oceanprotocol.com/f
 
 
 ### collaborative drug development
