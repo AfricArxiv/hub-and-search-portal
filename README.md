@@ -21,7 +21,7 @@ The repository database will be hosted by African research institutions in each 
 - …
 
 
-## two (2) components
+### two (2) components
 - ensuring maximum discoverability and interoperability
 
 preprint repository | aggregator 
