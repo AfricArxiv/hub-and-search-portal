@@ -32,18 +32,49 @@ integration with Crossref, ORCID, … | …
 
 ## Technical requirements
 - ensuring maximum discoverability and interoperability
+- …
+- …
 
+## Sources
+
+### Directories
+
+- [DOAJ](https://doaj.org/search?ref=homepage-box&source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22africa*%22%2C%22default_operator%22%3A%22AND%22%7D%7D%7D)
+
+- [BASEsearch](https://www.base-search.net/Search/Results?lookfor=africa*&name=&oaboost=1&newsearch=1&refid=dcbasen)
+
+- [Open Knowledge Maps (uses BASE or PubMed)](
+
+- PubMed / https://www.ncbi.nlm.nih.gov/pubmed/?term=Africa*
+
+paywalled // therefore ignore??
+- https://www.scopus.com/home.uri
+- http://wokinfo.com/
+
+    
+### by type
+- search by region = Africa*
+
+1) Repositories
+- https://v2.sherpa.ac.uk/view/repository_by_country/002.html // API requirements https://v2.sherpa.ac.uk/opendoar/api.html
+
+2) Scholarly Books
+- http://www.africanminds.co.za/
+- http://www.oapen.org/search?keyword=africa*
+
+3) Journals
+- AJOL / https://www.ajol.info/
+
+
+#### identify by author / article
 We are looking at crawling content from three (3) groups:
-
 1) African researchers based on the continent, affiliated to an African research institution 
 - seaerch & trivel // crawling approach: 
 
-
 2) African researchers, not based in Africa, affiliated to a non-African research institution
+
 3) Non-African researchers, who wortk on Africa topics
-- search & trivel // crawling approach: 
-    
-crawling 
+- search & trivel // crawling approach: …
 
 
 # database with the following features / semantic
@@ -67,18 +98,9 @@ the automated crawling will be implemented on a regional / national level to be 
 
 # server space requirements
 starting at XXX GB
-- provided by/via Ubuntu Net Alliance? / LIBSENSE? / other regional or pan-African entity?
+- provided by/via Ubuntu Net Alliance (?) / LIBSENSE (?) / TENET (?) / other regional or pan-African entity?
 
-
-
-## Languages
-- languages commonly spoken on the continet 
-- machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
-- Language switch // editable by the users and admin
-
-
-## Server space
-Identify at least one (1) host institutions in each African region that can host the AfricArXiv database.
+Identify at least one (1) host institution in each African region that can host the AfricArXiv database.
 What capacity is needed in the beginning and projected over the next 3-5 years?
 
 
@@ -88,6 +110,14 @@ Current cloud options:
 - Microsoft Azure’s services // already in SA
 - Amazon Web Services (AWS) // announced to open servers in Africa
 - Google Cloud // announced to open servers in Africa
+
+
+# Languages
+- languages commonly spoken on the continet 
+- machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
+- Language switch // editable by the users and admin
+
+
 
 
 ---
