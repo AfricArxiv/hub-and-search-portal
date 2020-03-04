@@ -43,7 +43,7 @@ integration with Crossref, ORCID, … | …
 
 - [BASEsearch](https://www.base-search.net/Search/Results?lookfor=africa*&name=&oaboost=1&newsearch=1&refid=dcbasen)
 
-- [Open Knowledge Maps (uses BASE or PubMed)](
+- [Open Knowledge Maps (uses BASE or PubMed)](https://openknowledgemaps.org/map/57bafb92fc16fbcae701e7ef81c77b0a) / possible to integrate the map?
 
 - PubMed / https://www.ncbi.nlm.nih.gov/pubmed/?term=Africa*
 
