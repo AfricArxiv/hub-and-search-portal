@@ -43,6 +43,8 @@ integration with Crossref, ORCID, … | …
 
 - [BASEsearch](https://www.base-search.net/Search/Results?lookfor=africa*&name=&oaboost=1&newsearch=1&refid=dcbasen)
 
+- Wikidata / Scholia - https://tools.wmflabs.org/scholia/faq
+
 - [Open Knowledge Maps (uses BASE or PubMed)](https://openknowledgemaps.org/map/57bafb92fc16fbcae701e7ef81c77b0a) / possible to integrate the map?
 
 - PubMed / https://www.ncbi.nlm.nih.gov/pubmed/?term=Africa*
@@ -66,7 +68,7 @@ paywalled // therefore ignore??
 - AJOL / https://www.ajol.info/
 
 
-#### identify by author / article
+#### identify by author / article / publisher / journal
 We are looking at crawling content from three (3) groups:
 1) African researchers based on the continent, affiliated to an African research institution 
 - seaerch & trivel // crawling approach: 
