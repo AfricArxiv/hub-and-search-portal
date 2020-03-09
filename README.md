@@ -66,31 +66,35 @@ paywalled // therefore ignore??
 
 #### Identify by Author / Article / Publisher / Journal
 In the advanced smart search based , crawling and extrating key features related to Africa from sources enables semantic context search with more accurat results. This should take place in follwoing main categories of search criteria or combination of them:
+
 1) Content by African authors / co-authors who are based out in Africa
+
 2) Content by African authors / co-authors who are based outside Africa
+
 3) Content by non-African authors / co-authors related to Africa
+
 4) Content authored / co-authored by /f or African Institutions
+
 5) Content authored / co-authored by / for one or more African region, city or country
+
 6) Other non-location specific: date, time, topic, publisher, sponsers...etc.
 
 
 ## Languages
-- languages commonly spoken on the continet 
-- machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
+- Languages commonly spoken on the continet 
+- Machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
 - Language switch // editable by the users and admin
 
 
 ## Technical Requirements
-- The system consists of three main tiers: The Core Smart Data Platform, Source Data Crowling and Ingestion, Search Intergation and Portal Applications
-- …
-- …
-### The Core Smart Data Platform
-- local identifier
-- ID source of publication // DOI - via crossref or other
+The system consists of three main tiers: The Core Smart Data Platform, Source Data Crowling and Ingestion, Search Intergation and Portal Applications
 
-- African university / research institute
-- language
-- (other metadata)
+  ### The Core Smart Data Platform
+  - local identifier
+  - ID source of publication // DOI - via crossref or other
+  - African university / research institute
+  - language
+  - (other metadata)
 
 ### Source Data Crowling and Ingestion
 - local identifier
