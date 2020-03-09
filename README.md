@@ -20,7 +20,7 @@ The portal will be hosted by African research institutions in each of the 5 regi
 - Utlizing open source distrubted data technologies, big data platforms and AI driven models
 
 
-preprint repository | hub and search portal 
+Preprint Repository | Hub and Search Portal 
 --- | --- 
 [AfricArxiv/preprint-repository](https://github.com/AfricArxiv/preprint-repository) | *as described here*
 upload of preprint manuscripts, student reports, research proposals, registered reports/preregistrations, short communications, etc. | aggregating scholarly output from and about Africa via one interface inlc preprints form toher platforms, scholarly books, datasets for streamlined discoverability
@@ -86,19 +86,20 @@ In the advanced smart search based , crawling and extrating key features related
 - Language switch // editable by the users and admin
 
 
-## Technical Requirements
+## Technical Specifications
 The system consists of three main tiers: The Core Smart Data Platform, Source Data Crowling and Ingestion, Search Intergation and Portal Applications
 
-###   The Core Smart Data Platform
-  - local identifier
-  - ID source of publication // DOI - via crossref or other
-  - African university / research institute
-  - language
-  - (other metadata)
+### The Core Smart Data Platform
+- The main engine to mainly store features of content by source publisher incluing the content uploaded directly to the platfrom
+- Contains interuim data structires needed for the storing the semnatic features including local ID and source ID to link to the orginal source content when retreving results.
+- Stores addtional metadata about the source content to optimize the search process while syncornize online with changes on the source system.
+- Pre-cacluates and mainatians updated search metrics triggred by the crolwing and data ingestion process as well as caches the prevouise seaerch results for repeated searches. 
 
 ### Source Data Crowling and Ingestion
-- local identifier
-- ID source of publication // DOI - via crossref or other
+- Responsible for connecting, parsining and restriving content feastures from external sources by applying the above search idintifers.
+- Updates the core data platform continously with new contetn and changes on the exiting content on pre-confirgured time intervales.
+- Conduct needed trnafomrations and canconclization on the exterated features and trigger updating interuim search data strtcures and metrics calculations.
+- Run a librairy of APIs and Consumers for different appacroches of connectivty to external sources.
 
 ### Search Intergation and Portal Applications
 - local identifier
