@@ -17,7 +17,7 @@ The portal will be hosted by African research institutions in each of the 5 regi
 - The data platfrom components are hosted by intritutaions in African regions (EastA, WestA, NorthA, CentralA)
 - A master data intance can be replicated to a cloud service as a matter of backup.
 - Number of districbuted instances can be increased seamlesly to any country/region in Africa ensuring African ownership
-- Utlizing distrubted data technologies, big data platforms and AI driven models
+- Utlizing open source distrubted data technologies, big data platforms and AI driven models
 
 
 preprint repository | hub and search portal 
@@ -25,15 +25,9 @@ preprint repository | hub and search portal
 [AfricArxiv/preprint-repository](https://github.com/AfricArxiv/preprint-repository) | *as described here*
 upload of preprint manuscripts, student reports, research proposals, registered reports/preregistrations, short communications, etc. | aggregating scholarly output from and about Africa via one interface inlc preprints form toher platforms, scholarly books, datasets for streamlined discoverability
 based on PKP OPS (?) | Integrates via API of partner platforms but applying different search sechme atop of thier functions
-DOI and CC-BY 4.0 attribution | Uses crowling and feature extraction for more accurate search results
+DOI and CC-BY 4.0 attribution | Uses crowling and feature extraction for more accurate semantic context search
 integration with Crossref, ORCID, … | Enbales much more search oprtions relvent to content pulish in relation to Africa as per the sources section below
 
-
-
-## Technical requirements
-- ensuring maximum discoverability and interoperability
-- …
-- …
 
 ## Sources
 
@@ -79,7 +73,17 @@ We are looking at crawling content from three (3) groups:
 - search & trivel // crawling approach: …
 
 
-# database with the following features / semantic
+## Languages
+- languages commonly spoken on the continet 
+- machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
+- Language switch // editable by the users and admin
+
+
+## Technical Requirements
+- The system consists of three main tiers: The Core Smart Data Platform, Source Data Crowling and Ingestion, Search Intergation and Portal Applications
+- …
+- …
+### The Core Smart Data Platform
 - local identifier
 - ID source of publication // DOI - via crossref or other
 
@@ -87,18 +91,25 @@ We are looking at crawling content from three (3) groups:
 - language
 - (other metadata)
 
+### Source Data Crowling and Ingestion
+- local identifier
+- ID source of publication // DOI - via crossref or other
 
-# approach
+### Search Intergation and Portal Applications
+- local identifier
+- ID source of publication // DOI - via crossref or other
+
+## approach
 distributed crawling & passing on a regional basis: 
 the automated crawling will be implemented on a regional / national level to be time and cost sensitive/efficient
 
 
-# end user requirements: 
+## end user requirements: 
 - be able to search content published online with drop down selection and/or free chouce of keywords
 - specific to African scholarly content
 
 
-# server space requirements
+## server space requirements
 starting at XXX GB
 - provided by/via Ubuntu Net Alliance (?) / LIBSENSE (?) / TENET (?) / other regional or pan-African entity?
 
@@ -112,14 +123,6 @@ Current cloud options:
 - Microsoft Azure’s services // already in SA
 - Amazon Web Services (AWS) // announced to open servers in Africa
 - Google Cloud // announced to open servers in Africa
-
-
-# Languages
-- languages commonly spoken on the continet 
-- machine translations with options/overlay interface to manually improve the text online (see www.GTranslate.io) // GoogleTranspate API
-- Language switch // editable by the users and admin
-
-
 
 
 ---
