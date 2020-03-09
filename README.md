@@ -1,4 +1,4 @@
-# Developing an African hub and search portal for scholarly communication
+# Developing an African hub and search portal for scholarly Publishing
 - owned by the African Science community
 - hosted on African territory
 - open source
