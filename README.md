@@ -121,18 +121,17 @@ The system consists of three main tiers: The Core Smart Data Platform, Source Da
    - Operating System: Ubuntu Linux
    - CPU: Intel Xeon 8 Cores x64 3.x GHz
    - Memory: 64 GB
-   - Disk: 1 TB SSD or All Flash
+   - Disk: 2 TB SSD or All Flash
    - Networking: Static IP / 10 Gb NIC and Server-grad Internt Connection for external access
    - All other Data Center services
-
+- We might adapte to lower specifictions for first phase if the above are not avilable.
 - Identify at least one host institution in each African region that can host the AfricArXiv hub preferably with a data center that is decntly oprtionalixed and uses virtulaization or private cloud.
 - Capciaty provject for coming 5 years should be provided down the road after completing the first phase so that sounding extimates can be made.
 - The design and technical archiecture will be made for potetial scale out to other African hosting facilities with no need to rebuild or change the solution.
 
 
 ## Using Public Cloud
-Make sure that the provider has a server based in Africa. Database must be easy to migrate if needed.
-Current cloud options:
+We can use public cloud hosted and runing within Africa for the baocve main nodes and at the same time we can use a pIUblic Cloud hosted anywhare on the world as a master copy backup for high avilbaility. Some potential services:
 - Microsoft Azure’s services // already in SA
 - Amazon Web Services (AWS) // announced to open servers in Africa
 - Google Cloud // announced to open servers in Africa
