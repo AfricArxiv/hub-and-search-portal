@@ -29,9 +29,11 @@ DOI and CC-BY 4.0 attribution | Uses crowling and feature extraction for more a
 integration with Crossref, ORCID, … | Enbales much more search oprtions relvent to content pulish in relation to Africa as per the sources section below
 
 
-## Sources
+## Sources of Published Content
 
 ### Directories
+
+- Direct publishing to the the hub by uploading the conent directly into the core data platfrom
 
 - [DOAJ](https://doaj.org/search?ref=homepage-box&source=%7B%22query%22%3A%7B%22query_string%22%3A%7B%22query%22%3A%22africa*%22%2C%22default_operator%22%3A%22AND%22%7D%7D%7D)
 
@@ -48,8 +50,8 @@ paywalled // therefore ignore??
 - http://wokinfo.com/
 
     
-### by type
-- search by region = Africa*
+### By Type Filtering
+- Search by region = Africa* or By other smart features
 
 1) Repositories
 - https://v2.sherpa.ac.uk/view/repository_by_country/002.html // API requirements https://v2.sherpa.ac.uk/opendoar/api.html
@@ -62,15 +64,14 @@ paywalled // therefore ignore??
 - AJOL / https://www.ajol.info/
 
 
-#### identify by author / article / publisher / journal
-We are looking at crawling content from three (3) groups:
-1) African researchers based on the continent, affiliated to an African research institution 
-- seaerch & trivel // crawling approach: 
-
-2) African researchers, not based in Africa, affiliated to a non-African research institution
-
-3) Non-African researchers, who wortk on Africa topics
-- search & trivel // crawling approach: …
+#### Identify by Author / Article / Publisher / Journal
+In the advanced smart search based , crawling and extrating key features related to Africa from sources enables semantic context search with more accurat results. This should take place in follwoing main categories of search criteria or combination of them:
+1) Content by African authors / co-authors who are based out in Africa
+2) Content by African authors / co-authors who are based outside Africa
+3) Content by non-African authors / co-authors related to Africa
+4) Content authored / co-authored by /f or African Institutions
+5) Content authored / co-authored by / for one or more African region, city or country
+6) Other non-location specific: date, time, topic, publisher, sponsers...etc.
 
 
 ## Languages
