@@ -5,7 +5,7 @@
 - Open access
 - Free for users
 
-## Vision
+## Vision and Approach
 African research output should be owned and hosted on African territory. We therefore propose here an African smart platform and portal for preprint uploads as well as the aggregation of African research output including: 
 - Scholarly books 
 - Journal articles 
@@ -18,6 +18,12 @@ The portal will be hosted by African research institutions in each of the 5 regi
 - A master data intance can be replicated to a cloud service as a matter of backup.
 - Number of districbuted instances can be increased seamlesly to any country/region in Africa ensuring African ownership
 - Utlizing open source distrubted data technologies, big data platforms and AI driven models
+
+
+## End User Requirements: 
+- be able to search content published online with drop down selection and/or free chouce of keywords
+- specific to African scholarly content
+- ...<please add more from end user prespective i.e. how the end user would like to see the applications interface running as well as other features like speed of search, retirved content dsiplay...etc.>
 
 
 Preprint Repository | Hub and Search Portal 
@@ -102,28 +108,29 @@ The system consists of three main tiers: The Core Smart Data Platform, Source Da
 - Run a librairy of APIs and Consumers for different appacroches of connectivty to external sources.
 
 ### Search Intergation and Portal Applications
-- local identifier
-- ID source of publication // DOI - via crossref or other
-
-## approach
-distributed crawling & passing on a regional basis: 
-the automated crawling will be implemented on a regional / national level to be time and cost sensitive/efficient
-
-
-## end user requirements: 
-- be able to search content published online with drop down selection and/or free chouce of keywords
-- specific to African scholarly content
+- Enbales the end users who would like to use the services to search, retrive, display and anlayze the results by providing search keywords and options.
+- Connect and run the semantic context search module on the core data platfrom to retrevie most relvant content and get a list of source idintifiers
+- reach out to the source systems to ensure the conent is still intact and recent then restive the content title and abstact as well as other metadata.
+- Display the retrived content in different layouts and arrnagments based on customer selection including saving the search and search results for later use.
+- Administeration backoffice application for AfricArxiv to be bale to mointor, configure, secure and operate the whole solution.
 
 
-## server space requirements
-starting at XXX GB
-- provided by/via Ubuntu Net Alliance (?) / LIBSENSE (?) / TENET (?) / other regional or pan-African entity?
+## Infrastructure Requirements
+- The solution should be devloped in incremental appraoch and capatize on contriantization technologies of rease of vertical and horniztal sclability.
+- For the first development increment (Proof of Value phase), 5 servers - one at each location - is needed witht he following specifictions profile:
+   - Operating System: Ubuntu Linux
+   - CPU: Intel Xeon 8 Cores x64 3.x GHz
+   - Memory: 64 GB
+   - Disk: 1 TB SSD or All Flash
+   - Networking: Static IP / 10 Gb NIC and Server-grad Internt Connection for external access
+   - All other Data Center services
 
-Identify at least one (1) host institution in each African region that can host the AfricArXiv database.
-What capacity is needed in the beginning and projected over the next 3-5 years?
+- Identify at least one host institution in each African region that can host the AfricArXiv hub preferably with a data center that is decntly oprtionalixed and uses virtulaization or private cloud.
+- Capciaty provject for coming 5 years should be provided down the road after completing the first phase so that sounding extimates can be made.
+- The design and technical archiecture will be made for potetial scale out to other African hosting facilities with no need to rebuild or change the solution.
 
 
-## Connect via cloud services (?)
+## Using Public Cloud
 Make sure that the provider has a server based in Africa. Database must be easy to migrate if needed.
 Current cloud options:
 - Microsoft Azure’s services // already in SA
