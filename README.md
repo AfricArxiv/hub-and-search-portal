@@ -131,7 +131,7 @@ The system consists of three main tiers: The Core Smart Data Platform, Source Da
 
 
 ## Using Public Cloud
-We can use public cloud hosted and runing within Africa for the baocve main nodes and at the same time we can use a pIUblic Cloud hosted anywhare on the world as a master copy backup for high avilbaility. Some potential services:
+We can use public cloud hosted and runing within Africa for the baocve main nodes and at the same time we can use a Public Cloud hosted anywhare on the world as a master copy backup for high avilbaility. Some potential services:
 - Microsoft Azure’s services // already in SA
 - Amazon Web Services (AWS) // announced to open servers in Africa
 - Google Cloud // announced to open servers in Africa
