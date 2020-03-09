@@ -89,7 +89,7 @@ In the advanced smart search based , crawling and extrating key features related
 ## Technical Requirements
 The system consists of three main tiers: The Core Smart Data Platform, Source Data Crowling and Ingestion, Search Intergation and Portal Applications
 
-  ### The Core Smart Data Platform
+###   The Core Smart Data Platform
   - local identifier
   - ID source of publication // DOI - via crossref or other
   - African university / research institute
