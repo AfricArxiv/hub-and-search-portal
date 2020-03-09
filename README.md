@@ -1,23 +1,23 @@
-# Developing an African hub and search portal for scholarly Publishing
-- owned by the African Science community
-- hosted on African territory
-- open source
-- open access
-- free for users
+# Developing an African Hub and Search Portal for Scholarly Publishing
+- Owned by the African Science community
+- Distrbuted hosting on African territory
+- Open source
+- Open access
+- Free for users
 
 ## Vision
-African research output should be owned and hosted on African territory. We therefore propose here an African repository for preprint uploads as well as the aggregation of African research output including: 
-- scholarly books 
-- journal articles 
+African research output should be owned and hosted on African territory. We therefore propose here an African smart platform and portal for preprint uploads as well as the aggregation of African research output including: 
+- Scholarly books 
+- Journal articles 
 - List of digital African scholarly journals 
 - …
 
 The portal will be hosted by African research institutions in each of the 5 regions on the continent. To achieve this we will build a decentralized infrastructure with the following features:
-- Core database hosted on a server at an African institution
-- Mirror backup of the database to servers in all African regions (EastA, WestA, NorthA, CentralA) and a Cloud 
-- Ensuring African ownership of African research output
-- possibly incl. blockchain components (?)
-- …
+- Core distributed data engine with intlltient aggrigation and search models
+- The data platfrom components are hosted by intritutaions in African regions (EastA, WestA, NorthA, CentralA)
+- A master data intance can be replicated to a cloud service as a matter of backup.
+- Number of districbuted instances can be increased seamlesly to any country/region in Africa ensuring African ownership
+- 
 
 
 preprint repository | hub and search portal 
