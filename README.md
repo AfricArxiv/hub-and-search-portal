@@ -55,6 +55,10 @@ paywalled // therefore ignore??
 - https://www.scopus.com/home.uri
 - http://wokinfo.com/
 
+#### Repositories
+- https://www.connecting-africa.net/index.htm 
+- https://info.africarxiv.org/african-digital-research-repositories/
+
     
 ### By Type Filtering
 - Search by region = Africa* or By other smart features
