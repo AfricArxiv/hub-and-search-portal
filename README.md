@@ -13,10 +13,10 @@ African research output should be owned and hosted on African territory. We ther
 - …
 
 The portal will be hosted by African research institutions in each of the 5 regions on the continent. To achieve this we will build a decentralized infrastructure with the following features:
-- Core distributed data engine with intillegint aggrigation and search models
-- The data platfrom components are hosted by intritutaions in African regions (EastA, WestA, NorthA, CentralA)
+- Core distributed data engine with intelligent aggregation and search models
+- The data platfrom components are hosted by institutions in African regions (EastA, WestA, NorthA, CentralA)
 - A master data intance can be replicated to a cloud service as a matter of backup.
-- Number of districbuted instances can be increased seamlesly to any country/region in Africa ensuring African ownership
+- Number of distributed instances can be increased seamlesly to any country/region in Africa ensuring African ownership
 - Utlizing open source distrubted data technologies, big data platforms and AI driven models
 
 
