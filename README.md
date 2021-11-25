@@ -51,9 +51,11 @@ integration with Crossref, ORCID, … | Enbales much more search oprtions relven
 
 - PubMed / https://www.ncbi.nlm.nih.gov/pubmed/?term=Africa*
 
-paywalled // therefore ignore??
 - https://www.scopus.com/home.uri
+
 - http://wokinfo.com/
+
+
 
 #### Repositories
 - https://www.connecting-africa.net/index.htm 
@@ -61,7 +63,7 @@ paywalled // therefore ignore??
 
     
 ### By Type Filtering
-- Search by region = Africa* or By other smart features
+- Search by region = Africa* - each country and by other specific identifiers 
 
 1) Repositories
 - https://v2.sherpa.ac.uk/view/repository_by_country/002.html // API requirements https://v2.sherpa.ac.uk/opendoar/api.html
@@ -117,6 +119,12 @@ The system consists of three main tiers: The Core Smart Data Platform, Source Da
 - reach out to the source systems to ensure the conent is still intact and recent then restive the content title and abstact as well as other metadata.
 - Display the retrived content in different layouts and arrnagments based on customer selection including saving the search and search results for later use.
 - Administeration backoffice application for AfricArxiv to be bale to mointor, configure, secure and operate the whole solution.
+
+### metrics
+- embdedd Altmetric badge: https://api.altmetric.com/embeds.html
+- embedd AiS badge on country level: https://africainscience.org/
+- …
+- …
 
 
 ## Infrastructure Requirements
